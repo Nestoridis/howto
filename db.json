@@ -14,11 +14,11 @@
                       {
                         "username": "geo",
                         "firstname": "George",
-                        "lastname": "Uni",
-                      },
+                        "lastname": "Uni"
+                      }
                   },
       "image": "https://reactnative.dev/img/tiny_logo.png",
-      "video": false,
+      "video": false
       
     },
     {
@@ -29,11 +29,11 @@
                       {
                         "username": "dimitra",
                         "firstname": "Dimitra",
-                        "lastname": "Fanis",
-                      },
+                        "lastname": "Fanis"
+                      }
                   },
       "image": "https://reactnative.dev/img/tiny_logo.png",
-      "video": false,
+      "video": false
       
     },
      {
@@ -44,11 +44,11 @@
                       {
                         "username": "thanasis",
                         "firstname": "Thanos",
-                        "lastname": "Disk",
-                      },
+                        "lastname": "Disk"
+                      }
                   },
       "image": "https://reactnative.dev/img/tiny_logo.png",
-      "video": false,
+      "video": false
       
     },
     {
@@ -59,11 +59,11 @@
                       {
                         "username": "thaffnasis",
                         "firstname": "Thffnos",
-                        "lastname": "Diffsk",
-                      },
+                        "lastname": "Diffsk"
+                      }
                   },
       "image": "https://reactnative.dev/img/tiny_logo.png",
-      "video": false,
+      "video": false
       
     },
     {
@@ -74,13 +74,12 @@
                       {
                         "username": "thaffaanasis",
                         "firstname": "Thffnocccs",
-                        "lastname": "Diffvvsk",
-                      },
+                        "lastname": "Diffvvsk"
+                      }
                   },
       "image": "https://reactnative.dev/img/tiny_logo.png",
-      "video": false,
-      
-    },
+      "video": false
+    }
     ]
   
     
