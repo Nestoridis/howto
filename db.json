@@ -1,5 +1,5 @@
 data: {
-  user: { username: 'teo', password: '123', firstname: 'Joe', lastname: 'Doe'}
+  user: { username: 'teo', password: '123', firstname: 'Joe', lastname: 'Doe'},
   error: 'null'
 }
   
