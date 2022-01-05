@@ -51,22 +51,22 @@
 		{
 			"title":"What is Junkipedia?",
 			"body":"Junkipedia is a tool created by the Algorithmic Transparency Institute, a project of the National Conference on Citizenship, to provide a collaborative platform for collecting, monitoring, analyzing, and responding to problematic content online.",
-			"image": null,
+			"image": null
 		},
 		{
 			"title":"What is the Junkipedia platform?",
 			"body" : "Junkipedia provides a platform to achieve this goal by enabling institutions large and small, responsible communities, and individuals to pitch in and identify each and every instance of misinformation, so that new problems are spotted and mitigated quickly. This shared resource makes it easier to triage the messages and focus on those which others have not already addressed, and to leverage existing work instead of recreating it.",
-			"image": null,
+			"image": null
 		},
 		{
 			"title":"What is Lorem Ipsum?",
 			"body" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries but",
-			"image": "https://reactnative.dev/img/tiny_logo.png",
+			"image": "https://reactnative.dev/img/tiny_logo.png"
 		},
 		{
 			"title":"What is Lorem Ipsum?",
 			"body" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries but",
-			"image": null,
+			"image": null
 		}]
   ,
   
@@ -78,7 +78,7 @@
 		{
 			"title":"Introduction 2",
 			"body":"junkipedia is a platform allowing users to log instances of problematic content posted online such as mis- and dis-information, create an archive of these instances and undertake research, analysis and monitoring of trends in the spread of this content.Use of Junkipedia is subject to these Terms of Use (“Terms”), which govern how you may use Junkipedia and form the agreement between the user (“you”, “user”) and Algorithmic Transparency Institute (“ATI”, “we”, “us”, “our”) a project of the National Conference on Citizenship.\nATI grants you a non-transferable, non-exclusive, revokable, limited to use and access Junkipedia. We reserve all rights not expressly granted to you by these Terms.\nIf you violate any of these Terms, then ATI may terminate your account. ATI’s failure to enforce or exercise any of these Terms does not constitute a waiver.\n'These Terms are to be read in conjunction with any other agreement that may be in place between ATI and you.\nATI may modify these Terms from time to time and will publish any modifications here."
-		},
+		}
 		
 	]
     
