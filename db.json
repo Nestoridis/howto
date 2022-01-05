@@ -1,11 +1,87 @@
 {
+  "user": 
+      {
+        "username": "teo",
+        "firstname": "Joe",
+        "lastname": "Doe",
+      },
   "posts": [
     {
+      "id": 0,
+      "title" : "Some arround were here",
+      "description": "Some arround were hereSome arround were hereSome arround were hereSome arround were hereSome arround were hereSome arround were here",
+      "creator" : { "user": 
+                      {
+                        "username": "geo",
+                        "firstname": "George",
+                        "lastname": "Uni",
+                      },
+                  },
+      "image": "https://reactnative.dev/img/tiny_logo.png",
+      "video": false,
+      
+    },
+    {
       "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "title" : "Gone will fight and teo",
+      "description": "Gone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoound were hereSome arround were hereSome arround were hereSome arround were here",
+      "creator" : { "user": 
+                      {
+                        "username": "dimitra",
+                        "firstname": "Dimitra",
+                        "lastname": "Fanis",
+                      },
+                  },
+      "image": "https://reactnative.dev/img/tiny_logo.png",
+      "video": false,
+      
+    },
+     {
+      "id": 2,
+      "title" : "Tight ax flex return uni",
+      "description": "Gone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoound were hereSome arround were hereSome arround were hereSome arround were here",
+      "creator" : { "user": 
+                      {
+                        "username": "thanasis",
+                        "firstname": "Thanos",
+                        "lastname": "Disk",
+                      },
+                  },
+      "image": "https://reactnative.dev/img/tiny_logo.png",
+      "video": false,
+      
+    },
+    {
+      "id": 3,
+      "title" : "Tight ax flexfffgfg returnfgfg ungffgfi",
+      "description": "Gone will figfgfht and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoound were hereSome arround were hereSome arround were hereSome arround were here",
+      "creator" : { "user": 
+                      {
+                        "username": "thaffnasis",
+                        "firstname": "Thffnos",
+                        "lastname": "Diffsk",
+                      },
+                  },
+      "image": "https://reactnative.dev/img/tiny_logo.png",
+      "video": false,
+      
+    },
+    {
+      "id": 4,
+      "title" : "Tigddsdshtdssdssdd ax flexfffgfddfdffg ungffgfi",
+      "description": "Gone will figfgfht asdsdsnd teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoound were hereSome arround were hereSome arround were hereSome arround were here",
+      "creator" : { "user": 
+                      {
+                        "username": "thaffaanasis",
+                        "firstname": "Thffnocccs",
+                        "lastname": "Diffvvsk",
+                      },
+                  },
+      "image": "https://reactnative.dev/img/tiny_logo.png",
+      "video": false,
+      
+    },
+    ]
+  
+    
 }
