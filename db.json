@@ -18,7 +18,7 @@
                       }
                   },
       "image": "https://reactnative.dev/img/tiny_logo.png",
-      "video": false
+      "video": 0
       
     },
     {
@@ -33,7 +33,7 @@
                       }
                   },
       "image": "https://reactnative.dev/img/tiny_logo.png",
-      "video": false
+      "video": 0
       
     },
      {
@@ -48,7 +48,7 @@
                       }
                   },
       "image": "https://reactnative.dev/img/tiny_logo.png",
-      "video": false
+      "video": 0
       
     },
     {
@@ -63,7 +63,7 @@
                       }
                   },
       "image": "https://reactnative.dev/img/tiny_logo.png",
-      "video": false
+      "video": 0
       
     },
     {
@@ -78,7 +78,7 @@
                       }
                   },
       "image": "https://reactnative.dev/img/tiny_logo.png",
-      "video": false
+      "video": 0
     }
     ]
   
