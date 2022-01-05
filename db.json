@@ -1,9 +1,8 @@
 {
-  "user": 
-      {
+  "user": {
         "username": "teo",
         "firstname": "Joe",
-        "lastname": "Doe",
+        "lastname": "Doe"
       },
   "posts": [
     {
@@ -67,7 +66,7 @@
       
     },
     {
-      "id": "4",
+      "id": 4,
       "title" : "Tigddsdshtdssdssdd ax flexfffgfddfdffg ungffgfi",
       "description": "Gone will figfgfht asdsdsnd teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoound were hereSome arround were hereSome arround were hereSome arround were here",
       "creator" : { "user": 
