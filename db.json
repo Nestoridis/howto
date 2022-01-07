@@ -3,7 +3,8 @@
       {
         "username": "teo",
         "firstname": "Joe",
-        "lastname": "Doe"
+        "lastname": "Doe",
+	"avatar": "https://reactnative.dev/img/tiny_logo.png"
       },
   "posts": [
     {
