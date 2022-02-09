@@ -8,50 +8,42 @@
       },
   "posts": [
     {
-      "id": "0",
-      "title" : "Some arround were here",
-      "description": "Some arround were hereSome arround were hereSome arround were hereSome arround were hereSome arround were hereSome arround were here",
-      "image": "https://images.unsplash.com/photo-1641515860642-c3afbe2eec12?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
-      "video": "0",
-      "status": "unseen"
-      
-    },
-    {
-      "id": "1",
-      "title" : "Gone will fight and teo",
-      "description": "Gone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoound were hereSome arround were hereSome arround were hereSome arround were here",
-      "image": "https://images.unsplash.com/photo-1641497510752-5c2508a814ed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1599&q=80",
-      "video": "0",
-      "status": "unseen"
-      
-    },
-     {
-      "id": "2",
-      "title" : "Tight ax flex return uni",
-      "description": "Gone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoound were hereSome arround were hereSome arround were hereSome arround were here",
-      "image": "https://images.unsplash.com/photo-1641319286820-ab6f81b72d21?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1064&q=80",
-      "video": "0",
-      "status": "unseen"
-      
-    },
-    {
-      "id": "3",
-      "title" : "Tight ax flexfffgfg returnfgfg ungffgfi",
-      "description": "Gone will figfgfht and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoound were hereSome arround were hereSome arround were hereSome arround were here",
-      "image": "https://images.unsplash.com/photo-1641550435860-1370d80c36e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2905&q=80",
-      "video": "0",
-      "status": "unseen"
-      
-    },
-    {
-      "id": "4",
-      "title" : "Tigddsdshtdssdssdd ax flexfffgfddfdffg ungffgfi",
-      "description": "Gone will figfgfht asdsdsnd teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoGone will fight and teoound were hereSome arround were hereSome arround were hereSome arround were here",
-      "image": "https://images.unsplash.com/photo-1641354113883-4a8304cb4608?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2888&q=80",
-      "video": "0",
-      "status": "unseen"
+      "id": 10300,
+      "user_id": 876,
+      "assigned_tasks": [
+        {
+          "id": 10301,
+          "assignment_id": 12300,
+          "task": {
+            "type": "review",
+            "image_url": "https://images.unsplash.com/photo-1641515860642-c3afbe2eec12?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+            "response_options": [ "YES", "NO", "SKIP" ]
+          },
+          "status": "unseen"
+        },{
+          "id": 10302,
+          "assignment_id": 12300,
+          "task": {
+            "type": "review",
+            "image_url": "https://images.unsplash.com/photo-1641497510752-5c2508a814ed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1599&q=80",
+            "response_options": [ "YES", "NO", "SKIP" ]
+          },
+          "status": "unseen"
+        },{
+          "id": 10303,
+          "assignment_id": 12300,
+          "task": {
+            "type": "review",
+            "image_url": "https://images.unsplash.com/photo-1641319286820-ab6f81b72d21?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1064&q=80",
+            "response_options": [ "YES", "NO", "SKIP" ]
+          },
+          "status": "unseen"
+        }
+      ],
+      "status": "pending",
+      "created_at": "2021-05-22T17:31:59.920Z"
     }
-    ]
+  ]
   ,
   "faq": [
 		{
