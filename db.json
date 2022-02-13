@@ -1,11 +1,46 @@
 {
-  "user": 
-      {
-        "username": "teo",
-        "firstname": "Joe",
-        "lastname": "Doe",
-	"avatar": "https://reactnative.dev/img/tiny_logo.png"
-      },
+  "poll" :
+	[
+    {
+      "id": 12300,
+      "user_id": 876,
+      "assigned_tasks": [
+        {
+          "id": 12301,
+          "assignment_id": 12300,
+          "task": {
+            "type": "question",
+            "question_type": "checkboxes",
+            "prompt_text": "What platforms do you use?",
+            "response_options": [ "YouTube", "Facebook", "TikTok" ]
+          },
+          "status": "unseen"}
+          ,{
+          "id": 12302,
+          "assignment_id": 12300,
+          "task": {
+            "type": "question",
+            "question_type": "radios",
+            "prompt_text": "How do you feel today?",
+            "response_options": [ "Great", "ok", "Awful" ]
+          },
+          "status": "unseen"}
+        ,{
+          "id": 12303,
+          "assignment_id": 12300,
+          "task": {
+            "type": "question",
+            "question_type": "text_entry",
+            "prompt_text": "What news story deserves more coverage these days?"
+          },
+          "status": "unseen"}
+      ],
+      "status": "pending",
+      "created_at": "2021-05-22T17:31:59.920Z",
+      "assignment_title": "Platform Use Survey",
+      "assignment_description": "This short survey lets us know what social media platforms you are using and gives you a chance to state an issue you care about. You'll also notice that we frequently ask how you are feeling."
+    }
+  ],
   "posts": [
     {
       "id": 10300,
