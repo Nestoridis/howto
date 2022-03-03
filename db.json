@@ -20,7 +20,7 @@
           "assignment_id": 12300,
           "task": {
             "type": "question",
-            "question_type": "radios",
+            "question_type": "radio",
             "prompt_text": "How do you feel today?",
             "response_options": [ "Great", "ok", "Awful" ]
           },
